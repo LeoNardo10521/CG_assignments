@@ -20,7 +20,7 @@
 #### b) Compile and run the program
 #### c) You can see a blue triangle in the middle of the window as “screenshot2.png” shows.
 #### (4) Notes: For more details about the program please refer to the comments in the “ques2.cpp”.
-##README_ques3
+
 
 ## ques3
 ### (1) The environment: openGL3.7 & visual studio 2017 community
